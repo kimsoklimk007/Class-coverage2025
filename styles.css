@@ -1,6 +1,6 @@
 /* ============================
    Cambodian School Management System
-   Global Styles
+   Global Styles (Common for all pages)
    ============================ */
 
 * {
@@ -175,6 +175,26 @@ body {
 /* ============================
    Hero Section
    ============================ */
+
+/* ============================
+   Styles for Index Page (Member 1)
+   ============================ */
+
+/* Add your styles for the Index page here */
+
+
+/* ============================
+   Styles for Classes Page (Member 2)
+   ============================ */
+
+/* Add your styles for the Classes page here */
+
+
+/* ============================
+   Styles for Students Page (Member 3)
+   ============================ */
+
+/* Add your styles for the Students page here */
 
 .hero {
   text-align: center;
